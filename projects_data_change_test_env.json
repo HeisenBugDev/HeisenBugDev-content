@@ -1,9 +1,9 @@
 {
   "projects": [
     {
+      "code_repo": "HeisenBugDev/QuantumCraft",
       "description": "Yet another tech mod",
       "name": "QuantumCraft",
-      "code_repo": "HeisenBugDev/QuantumCraft"
     }
   ]
 }
