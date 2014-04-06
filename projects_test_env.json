@@ -1,10 +1,9 @@
 {
   "projects": [
     {
-      "articles_repo": "HeisenBugDev/HeisenBugDev-content",
       "code_repo": "HeisenBugDev/QuantumCraft",
       "description": "Yet another tech mod that ends in -craft",
-      "name": "QuantumCraft"
+      "name": "QuantumCraft",
     }
   ]
 }

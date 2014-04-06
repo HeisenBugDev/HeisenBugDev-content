@@ -1,10 +1,9 @@
 {
   "projects": [
     {
-      "articles_repo": "HeisenBugDev/HeisenBugDev-content",
       "code_repo": "HeisenBugDev/QuantumCraft",
       "description": "Yet another tech mod",
-      "name": "QuantumCraft"
+      "name": "QuantumCraft",
     }
   ]
 }
