@@ -11,3 +11,22 @@ Welcome to the HeisenBugDev docs.
 Paragraph
 
 [Link](http://google.com)
+
+
+```
+basic code fence
+```
+
+```java
+// Java fence
+
+System.out.println('Java');
+```
+
+```
+// unmarked Java fence
+
+System.out.println('Java');
+```
+
+`this`
